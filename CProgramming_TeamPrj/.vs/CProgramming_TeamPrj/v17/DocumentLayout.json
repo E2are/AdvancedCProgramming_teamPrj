@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\choi\\source\\repos\\CProgramming_TeamPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2133135-0524-47E1-B0A5-398CAF6445C5}|CProgramming_TeamPrj.vcxproj|C:\\Users\\choi\\source\\repos\\CProgramming_TeamPrj\\\uCD5C\uC131\uC900.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2133135-0524-47E1-B0A5-398CAF6445C5}|CProgramming_TeamPrj.vcxproj|solutionrelative:\uCD5C\uC131\uC900.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uCD5C\uC131\uC900.cpp",
+              "DocumentMoniker": "C:\\Users\\choi\\source\\repos\\CProgramming_TeamPrj\\\uCD5C\uC131\uC900.cpp",
+              "RelativeDocumentMoniker": "\uCD5C\uC131\uC900.cpp",
+              "ToolTip": "C:\\Users\\choi\\source\\repos\\CProgramming_TeamPrj\\\uCD5C\uC131\uC900.cpp",
+              "RelativeToolTip": "\uCD5C\uC131\uC900.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-02T03:22:02.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
